@@ -2,3 +2,6 @@ streamlit
 tensorflow-cpu
 numpy
 scikit-learn
+joblib
+pandas
+category_encoders
